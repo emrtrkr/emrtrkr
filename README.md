@@ -33,14 +33,32 @@ Currently **AI Engineer at QMindLab**, working with clients from requirements to
 - 🎙️ **Voice agents** — speech-to-speech interview / screening flows with STT, TTS, and LLM reasoning
 - 🔒 Production concerns I don't skip: **LLM cost optimization**, retrieval quality, backend architecture, and secure deployments
 
-### 🛠️ Stack
+### 🛠️ Technical skills
 
-**AI & agents** — LangChain · Agno · LlamaIndex · CrewAI · Firecrawl · OpenAI · RAG · Prompting · MCP  
-**Backend** — Python · FastAPI · PostgreSQL · Redis · MinIO · Docker  
-**Data** — Pandas · NumPy · FAISS · SQL · Time series · ML
+**AI**
+- **LLMs & RAG** — prompt engineering and production RAG pipelines with OpenAI, LangChain, LlamaIndex, Chroma, and FAISS
+- **Chatbots & agents** — LangChain, Agno, and CrewAI agents with memory, tools, retrieval, and multi-step workflows
+- **Voice agents** — speech-to-speech flows with STT, TTS, and LLM reasoning
+- **Web scraping for LLMs** — Firecrawl + OpenAI for structured extraction and prompt-ready data
+- **Vector search** — FAISS / Chroma retriever chains inside agent workflows
+- **Computer vision** — real-time object detection and classification with OpenCV and YOLO
+- **APIs & models** — OpenAI, Hugging Face, Firecrawl, MCP
+
+**Backend**
+- Python · FastAPI · PostgreSQL · Redis · MinIO · SQL — APIs and data layers behind production LLM apps
+
+**DevOps & deployment**
+- Git & GitHub · Docker · Docker Compose · Linux — containerized AI apps, from local env to production
+
+**Data science**
+- **Feature engineering & modeling** — regression, classification, and end-to-end pipelines from preprocessing to evaluation
+- **Customer analytics** — CLTV prediction, RFM segmentation, and churn analysis
+- **Recommendation systems** — collaborative filtering engines
+- **Time series** — trend forecasting and temporal pattern analysis
+- **Toolkit** — Pandas · NumPy · SQL · Power BI
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,linux,git,javascript,html,vscode" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,linux,git,opencv,javascript,html,vscode" alt="Tech stack" />
 </p>
 
 ### 🚀 Selected work
