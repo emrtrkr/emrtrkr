@@ -58,7 +58,11 @@ Currently **AI Engineer at QMindLab**, working with clients from requirements to
 - **Toolkit** — Pandas · NumPy · SQL · Power BI
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,linux,git,opencv,javascript,html,vscode" alt="Tech stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,postgresql,redis,docker,linux,git,opencv,javascript,html,vscode" alt="Tech stack" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,agno,llamaindex,crewai,chatgpt,huggingface,mcp" alt="AI frameworks" />
+  <img src="https://github.com/firecrawl.png" height="48" alt="Firecrawl" />
 </p>
 
 ### 🚀 Selected work
